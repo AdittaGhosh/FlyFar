@@ -1,0 +1,252 @@
+[
+  {
+    "system": "alpha",
+    "segment": "1",
+    "uId": "mock-dac-cxb-oneway-001",
+    "triptype": "OneWay",
+    "career": "BS",
+    "careerName": "USBangla Airlines",
+    "lastTicketTime": "2025-04-08 23:59",
+    "BasePrice": 5000,
+    "Taxes": 1250,
+    "netfare": "5500",
+    "agentprice": "5500",
+    "subagentprice": "5500",
+    "customerPrice": 6250,
+    "comission": "750",
+    "comissiontype": "domestic",
+    "comissionvalue": "15",
+    "farecurrency": "BDT",
+    "airlinescomref": "100698",
+    "pricebreakdown": [
+      {
+        "BaseFare": "5000",
+        "Tax": "1250",
+        "PaxCount": "1",
+        "PaxType": "ADT",
+        "Discount": "0",
+        "OtherCharges": "0",
+        "ServiceFee": "0"
+      }
+    ],
+    "godeparture": "DAC",
+    "godepartureTime": "16:35",
+    "godepartureDate": "Wed 23 Apr 2025",
+    "goarrival": "CXB",
+    "goarrivalTime": "17:40",
+    "goarrivalDate": "Wed 23 Apr 2025",
+    "backdeparture": "",
+    "backdepartureTime": "",
+    "backdepartureDate": "",
+    "backarrival": "",
+    "backarrivalTime": "",
+    "backarrivalDate": "",
+    "goflightduration": "1H 5Min",
+    "backflightduration": "",
+    "transit": {
+      "go": { "transit1": "0" },
+      "back": { "transit1": "0" }
+    },
+    "bags": "20",
+    "seat": "9",
+    "class": "Economy",
+    "refundable": "Refundable",
+    "segments": {
+      "go": [
+        {
+          "marketingcareer": "BS",
+          "marketingcareerName": "USBangla Airlines",
+          "marketingflight": "157",
+          "operatingcareer": "BS",
+          "operatingflight": "157",
+          "departure": "DAC",
+          "departureAirport": "Hazrat Shahjalal Intl Airport",
+          "departureLocation": "Dhaka , BD",
+          "departureTime": "2025-04-23T16:35:00",
+          "arrival": "CXB",
+          "arrivalTime": "2025-04-23T17:40:00",
+          "arrivalAirport": "COXs Bazar Airport",
+          "arrivalLocation": "Coxs Bazar , BD",
+          "flightduration": "1H 5Min",
+          "bookingcode": "I",
+          "seat": "9"
+        }
+      ],
+      "back": []
+    },
+    "ischeap": true
+  },
+  {
+    "system": "alpha",
+    "segment": "1",
+    "uId": "70e379e97e5826ad070cb29bac90f0acaf0aa1f7",
+    "triptype": "RoundTrip",
+    "career": "BS",
+    "careerName": "USBangla Airlines",
+    "lastTicketTime": "2025-04-08 23:59",
+    "BasePrice": 10048,
+    "Taxes": 2350,
+    "netfare": "11128",
+    "agentprice": "11128",
+    "subagentprice": "11128",
+    "customerPrice": 12398,
+    "comission": "1270",
+    "comissiontype": "domestic",
+    "comissionvalue": "13.5",
+    "farecurrency": "BDT",
+    "airlinescomref": "100699",
+    "pricebreakdown": [
+      {
+        "BaseFare": "10048",
+        "Tax": "2350",
+        "PaxCount": "1",
+        "PaxType": "ADT",
+        "Discount": "0",
+        "OtherCharges": "0",
+        "ServiceFee": "0"
+      }
+    ],
+    "godeparture": "DAC",
+    "godepartureTime": "16:35",
+    "godepartureDate": "Wed 23 Apr 2025",
+    "goarrival": "CXB",
+    "goarrivalTime": "17:40",
+    "goarrivalDate": "Wed 23 Apr 2025",
+    "backdeparture": "CXB",
+    "backdepartureTime": "21:35",
+    "backdepartureDate": "Wed 30 Apr 2025",
+    "backarrival": "DAC",
+    "backarrivalTime": "22:40",
+    "backarrivalDate": "Wed 30 Apr 2025",
+    "goflightduration": "1H 5Min",
+    "backflightduration": "1H 5Min",
+    "transit": {
+      "go": { "transit1": "0" },
+      "back": { "transit1": "0" }
+    },
+    "bags": "20",
+    "seat": "9",
+    "class": "Economy",
+    "refundable": "Refundable",
+    "segments": {
+      "go": [
+        {
+          "marketingcareer": "BS",
+          "marketingcareerName": "USBangla Airlines",
+          "marketingflight": "157",
+          "operatingcareer": "BS",
+          "operatingflight": "157",
+          "departure": "DAC",
+          "departureAirport": "Hazrat Shahjalal Intl Airport",
+          "departureLocation": "Dhaka , BD",
+          "departureTime": "2025-04-23T16:35:00",
+          "arrival": "CXB",
+          "arrivalTime": "2025-04-23T17:40:00",
+          "arrivalAirport": "COXs Bazar Airport",
+          "arrivalLocation": "Coxs Bazar , BD",
+          "flightduration": "1H 5Min",
+          "bookingcode": "I",
+          "seat": "9"
+        }
+      ],
+      "back": [
+        {
+          "marketingcareer": "BS",
+          "marketingcareerName": "USBangla Airlines",
+          "marketingflight": "160",
+          "operatingcareer": "BS",
+          "operatingflight": "160",
+          "departure": "CXB",
+          "departureAirport": "COXs Bazar Airport",
+          "departureLocation": "Coxs Bazar , BD",
+          "departureTime": "2025-04-30T21:35:00",
+          "arrival": "DAC",
+          "arrivalTime": "2025-04-30T22:40:00",
+          "arrivalAirport": "Hazrat Shahjalal Intl Airport",
+          "arrivalLocation": "Dhaka , BD",
+          "flightduration": "1H 5Min",
+          "bookingcode": "I",
+          "seat": "9"
+        }
+      ]
+    },
+    "ischeap": true
+  },
+  {
+    "system": "alpha",
+    "segment": "1",
+    "uId": "mock-dac-ccu-001",
+    "triptype": "OneWay",
+    "career": "BS",
+    "careerName": "USBangla Airlines",
+    "lastTicketTime": "2025-04-08 23:59",
+    "BasePrice": 12000,
+    "Taxes": 2500,
+    "netfare": "13500",
+    "agentprice": "13500",
+    "subagentprice": "13500",
+    "customerPrice": 14500,
+    "comission": "1000",
+    "comissiontype": "international",
+    "comissionvalue": "10",
+    "farecurrency": "BDT",
+    "airlinescomref": "100700",
+    "pricebreakdown": [
+      {
+        "BaseFare": "12000",
+        "Tax": "2500",
+        "PaxCount": "1",
+        "PaxType": "ADT",
+        "Discount": "0",
+        "OtherCharges": "0",
+        "ServiceFee": "0"
+      }
+    ],
+    "godeparture": "DAC",
+    "godepartureTime": "10:00",
+    "godepartureDate": "Wed 22 Apr 2025",
+    "goarrival": "CCU",
+    "goarrivalTime": "11:00",
+    "goarrivalDate": "Wed 22 Apr 2025",
+    "backdeparture": "",
+    "backdepartureTime": "",
+    "backdepartureDate": "",
+    "backarrival": "",
+    "backarrivalTime": "",
+    "backarrivalDate": "",
+    "goflightduration": "1H 0Min",
+    "backflightduration": "",
+    "transit": {
+      "go": { "transit1": "0" },
+      "back": { "transit1": "0" }
+    },
+    "bags": "20",
+    "seat": "9",
+    "class": "Economy",
+    "refundable": "Refundable",
+    "segments": {
+      "go": [
+        {
+          "marketingcareer": "BS",
+          "marketingcareerName": "USBangla Airlines",
+          "marketingflight": "201",
+          "operatingcareer": "BS",
+          "operatingflight": "201",
+          "departure": "DAC",
+          "departureAirport": "Hazrat Shahjalal Intl Airport",
+          "departureLocation": "Dhaka , BD",
+          "departureTime": "2025-04-22T10:00:00",
+          "arrival": "CCU",
+          "arrivalTime": "2025-04-22T11:00:00",
+          "arrivalAirport": "Netaji Subhas Chandra Bose Intl Airport",
+          "arrivalLocation": "Kolkata , IN",
+          "flightduration": "1H 0Min",
+          "bookingcode": "I",
+          "seat": "9"
+        }
+      ],
+      "back": []
+    },
+    "ischeap": true
+  }
+]
